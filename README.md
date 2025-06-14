@@ -1,4 +1,4 @@
-# -- Tytuł gry --
+# Tytuł gry
 
 Cat Catcher 2.0 Deluxe Edition
 
@@ -10,7 +10,7 @@ Kacper Jezierski
 
 Parodia "Pou Food Drop"
 
-### -- Szczegóły --
+### Szczegóły
 
 Poruszanie się w prawo i lewo za pomocą strzałek.
 W grze chodzi o zebranie jak największej ilości punktów.
@@ -23,8 +23,6 @@ Mleko i ryby dodają 1 pkt.
 - **Pygame**
 
 ## Uruchomienie
-
--- Instrukcja uruchomienia gry. Może ona wyglądać w sposób podobny jak poniżej --
 
 Otwórz folder 'Gra' w VSCode.
 W środku znajduje się folder 'src', wejdź do niego.
