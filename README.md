@@ -1,43 +1,32 @@
 # -- Tytuł gry --
 
+Cat Catcher 2.0 Deluxe Edition
+
 ## Autor
 
--- autor -- 
+Kacper Jezierski
 
 ## Opis
 
--- Krótki opis twojej gry --
+Parodia "Pou Food Drop"
 
 ### -- Szczegóły --
 
--- tu możesz dodać szczegóły, np. zasady gry--
-
+Poruszanie się w prawo i lewo za pomocą strzałek.
+W grze chodzi o zebranie jak największej ilości punktów.
+Piwo i papryczki chili powodują utratę życia, na starcie jest ich 9.
+Mleko i ryby dodają 1 pkt.
 
 ## Technologie
 
--- Tutaj opisz użyte technologie --
-
-- **Python**: ...
-- **Pygame**: ...
-- **I cokolwiek innego**: ...
+- **Python**
+- **Pygame**
 
 ## Uruchomienie
 
 -- Instrukcja uruchomienia gry. Może ona wyglądać w sposób podobny jak poniżej --
 
-1. Sklonuj repozytorium:
-   
-    ```sh
-    git clone <adres repozytorium>
-    cd <nazwa repozytorium>
-    ```
-
-2. Zainstaluj dependencje
-    ```
-    pip install -r requirements.txt
-    ```
-
-3. Uruchom grę
-    ```
-    python app.py
-    ```
+Otwórz folder 'Gra' w VSCode.
+W środku znajduje się folder 'src', wejdź do niego.
+W środku znajduje się plik 'main.py', odpal go w VSCode.
+Miłej zabawy!
