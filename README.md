@@ -24,7 +24,9 @@ Mleko i ryby dodają 1 pkt.
 
 ## Uruchomienie
 
-Otwórz folder 'Gra' w VSCode.
-W środku znajduje się folder 'src', wejdź do niego.
-W środku znajduje się plik 'main.py', odpal go w VSCode.
+Sklonuj repozytorium.  
+Zainstaluj moduły z requirements.txt.  
+Otwórz folder 'Gra' w VSCode.  
+W środku znajduje się folder 'src', wejdź do niego.  
+W środku znajduje się plik 'main.py', odpal go w VSCode.  
 Miłej zabawy!
