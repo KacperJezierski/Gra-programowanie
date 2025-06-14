@@ -1,1 +1,0 @@
-# Mechanika postaci i obiektów
